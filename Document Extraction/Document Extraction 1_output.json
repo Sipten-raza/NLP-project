@@ -1,0 +1,52 @@
+{
+    "File": "Document Extraction 1.pdf",
+    "Extracted_Fields": {},
+    "Items_Table": [
+        {
+            "PRODUCT NAME": "Address:",
+            "ITEM #": "Email:",
+            "PRICE": "Phone:",
+            "QTY": "DATE:",
+            "SIZE": "PURCHASE ORDER #:",
+            "COLOUR": "CLIENT INFORMATION",
+            "TOTAL": "ORDER INFORMATION"
+        },
+        {
+            "PRODUCT NAME": "Poshmark black dress        ",
+            "ITEM #": "99880052  ",
+            "PRICE": "1,080.00$",
+            "QTY": "1",
+            "SIZE": "M",
+            "COLOUR": "BLACK",
+            "TOTAL": "1,080.00$"
+        },
+        {
+            "PRODUCT NAME": "Waterproof French overcoat        ",
+            "ITEM #": "99881052  ",
+            "PRICE": "995.00$",
+            "QTY": "1",
+            "SIZE": "M",
+            "COLOUR": "BLACK",
+            "TOTAL": "995.00$"
+        },
+        {
+            "PRODUCT NAME": "Signature perfume        ",
+            "ITEM #": "99885688  ",
+            "PRICE": "205.00$",
+            "QTY": "2",
+            "SIZE": "*",
+            "COLOUR": "*",
+            "TOTAL": "410.00$"
+        },
+        {
+            "PRODUCT NAME": "Classic blazer \"mindsweeper\"        ",
+            "ITEM #": "99884899  ",
+            "PRICE": "1,080.00$",
+            "QTY": "1",
+            "SIZE": "L",
+            "COLOUR": "RED/BLACK",
+            "TOTAL": "1,080.00$"
+        }
+    ],
+    "Raw_Text_Preview": "Name:\nPRICE\nQTY\nDiscount:\nTaxes:\nShipping:\nTOTAL:\nPayment Type:\nTrack #:\nArrival Date:\nMethod:\nCompany:\nSubtotal:\nPRODUCT NAME\nITEM #\nSIZE\nCOLOUR\nTOTAL\nAddress:\nEmail:\nPhone:\nDATE:\nPURCHASE ORDER #:\nCLIENT INFORMATION\nORDER INFORMATION\nSHIPPING INFO\nPAYMENT INFO\nNOTES\n22ND SEPTEMBER, 2022\nFASHION QU"
+}

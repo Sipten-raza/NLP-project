@@ -1,0 +1,52 @@
+{
+    "File": "Document Extraction 2.pdf",
+    "Extracted_Fields": {},
+    "Items_Table": [
+        {
+            "PRODUCT NAME": "<Company Address> ",
+            "ITEM #": "<Company Address> ",
+            "PRICE": "<Phone Number> ",
+            "QTY": ">Email Address> ",
+            "SIZE": "<Website URL>",
+            "COLOUR": "8365234",
+            "TOTAL": "ABC Office Supplies"
+        },
+        {
+            "PRODUCT NAME": "<Company Address> ",
+            "ITEM #": "<Phone Number> ",
+            "PRICE": ">Email Address> ",
+            "QTY": "<Website URL>",
+            "SIZE": "8365234",
+            "COLOUR": "ABC Office Supplies",
+            "TOTAL": "John Smith"
+        },
+        {
+            "PRODUCT NAME": ">Email Address> ",
+            "ITEM #": "<Website URL>",
+            "PRICE": "8365234",
+            "QTY": "ABC Office Supplies",
+            "SIZE": "John Smith",
+            "COLOUR": "mm/dd/yyyy",
+            "TOTAL": "1667 K Street NW, Washington DC   2006"
+        },
+        {
+            "PRODUCT NAME": "<Email Address>",
+            "ITEM #": "Franklin Middle School",
+            "PRICE": "Helen Wilson / Purchasing Department",
+            "QTY": "Washington DC, USA",
+            "SIZE": "(203) 334-7234",
+            "COLOUR": "<Email Address>",
+            "TOTAL": "1)"
+        },
+        {
+            "PRODUCT NAME": "<Email Address>",
+            "ITEM #": "1)",
+            "PRICE": "Pencils HB",
+            "QTY": "Dozen",
+            "SIZE": "5",
+            "COLOUR": "10.00",
+            "TOTAL": "50.00"
+        }
+    ],
+    "Raw_Text_Preview": "PURCHASE ORDER\nDATE:\nPURCHASE ORDER NO.:\nVENDOR INFORMATION\nCUSTOMER INFORMATION\nItem No.\nDetails\nUnit\nQuantity\nUnit Price\nTotal\nTaxes (%)\nDiscount (%)\nAdditional Notes:\nADDRESS\nCONTACT NO.\nEMAIL ADDRESS\nCONTACT NO.\nEMAIL ADDRESS\nADDRESS\nVENDOR NAME\nSALES PERSON\nCUSTOMER NAME\nCONTACT PERSON\nAuthoriz"
+}
